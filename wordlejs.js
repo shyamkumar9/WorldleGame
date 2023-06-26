@@ -1,7 +1,7 @@
 const inputLetters = document.querySelectorAll(".letter-input");
 const loadEle = document.querySelector(".loading");
 
-const WordOfDay = "https://words.dev-apis.com/word-of-the-day?random=1";
+const WordOfDay = "https://words.dev-apis.com/word-of-the-day?random=1a";
 const WordLength = 5;
 let WordGuess = "";
 let currentRow = 0;
